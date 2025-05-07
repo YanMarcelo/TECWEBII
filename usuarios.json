@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2345,
+    "nome": "Estudar para Métodos Númericos",
+    "status": "Concluído",
+    "dataCriacao": "07/05/2025, 12:52:11",
+    "dataAtualizacao": "07/05/2025, 13:06:52"
+  },
+  {
+    "id": 4267,
+    "nome": "Estudar para Eletromagnestimos",
+    "status": "Pendente",
+    "dataCriacao": "07/05/2025, 12:52:29",
+    "dataAtualizacao": "07/05/2025, 12:52:29"
+  },
+  {
+    "id": 2424,
+    "nome": "Comprar pão na padaria",
+    "status": "Pendente",
+    "dataCriacao": "07/05/2025, 12:53:04",
+    "dataAtualizacao": "07/05/2025, 12:53:04"
+  },
+  {
+    "id": 1234,
+    "nome": "Compras",
+    "status": "Pendente",
+    "dataCriacao": "07/05/2025, 12:59:10",
+    "dataAtualizacao": "07/05/2025, 12:59:10"
+  }
+]
