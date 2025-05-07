@@ -1,8 +1,4 @@
-Claro! Aqui está o conteúdo completo do arquivo `README.md` para o seu projeto de Gerenciador de Tarefas em Node.js, incorporando todas as informações discutidas anteriormente:
 
----
-
-```markdown
 # 📝 Gerenciador de Tarefas (CLI)
 
 Este é um projeto de linha de comando desenvolvido com **Node.js**, que permite aos usuários criar, listar, editar, remover, concluir e buscar tarefas. Os dados são armazenados localmente em um arquivo JSON, proporcionando uma experiência simples e eficiente para gerenciamento de tarefas via terminal.
